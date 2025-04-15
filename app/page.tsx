@@ -15,7 +15,7 @@ export default function Portfolio() {
                 <div className="space-y-8">
                     {/* Profile Header */}
                     <div className="flex items-center gap-4">
-                        <Image src="/Avatar.jpg" alt="Profile" width={60} height={60} className="rounded-full"/>
+                        <Image src="/Avatar.png" alt="Profile" width={60} height={60} className="rounded-full"/>
                         <div>
                             <h1 className="text-2xl font-mono">PATIENCE UGBESHE</h1>
                             <p className="text-gray-400">SOCIAL MEDIA MANAGER / GRAPHIC DESIGNER / COPYWRITER</p>
